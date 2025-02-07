@@ -4,3 +4,4 @@
 -p -------> password on viabtc////
 -o -------> port address on viabtc////
 at end you have to install all package on requirements.txt by command ("pip install -r requirements.txt ")
+////// run miner by python ss.py
