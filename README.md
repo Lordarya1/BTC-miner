@@ -3,5 +3,5 @@
 -u -------> user name on viabtc////
 -p -------> password on viabtc////
 -o -------> port address on viabtc////
-at end you have to install all package on requirements.txt by command ("pip install -r requirements.txt ")
-////// run miner by python ss.py
+please install req.txt's packages by (pip install -r req.txt) in general command 
+(https://github.com/Lordarya1/BTC-miner)////// run miner by (python ss.py) command
